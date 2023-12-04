@@ -1,0 +1,105 @@
+.macbook-pro {
+    background-color: #3d4342bd;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.macbook-pro .div {
+    background-color: #3d4342bd;
+    overflow: hidden;
+    width: 1512px;
+    height: 982px;
+    position: relative;
+}
+
+.macbook-pro .text-wrapper {
+    position: absolute;
+    top: 50px;
+    left: 525px;
+    font-family: "Irish Grover-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 51px;
+    letter-spacing: 14.29px;
+    line-height: normal;
+}
+
+.macbook-pro .text-wrapper-2 {
+    position: absolute;
+    top: 50px;
+    left: 784px;
+    font-family: "Irish Grover-Regular", Helvetica;
+    font-weight: 400;
+    color: #fdf7f7;
+    font-size: 51px;
+    letter-spacing: 14.29px;
+    line-height: normal;
+}
+
+.macbook-pro .overlap {
+    position: absolute;
+    width: 1615px;
+    height: 845px;
+    top: 137px;
+    left: -65px;
+    border-radius: 20px;
+}
+
+.macbook-pro .frame {
+    position: absolute;
+    width: 1615px;
+    height: 845px;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: inset 0px 4.56px 4.56px #00000040;
+    background: linear-gradient(180deg, rgba(253.09, 247.18, 247.18, 0.76) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.macbook-pro .welcome-to-d-dolphin {
+    position: absolute;
+    width: 1464px;
+    top: 37px;
+    left: 146px;
+    font-family: "Jomolhari-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 35.3px;
+    letter-spacing: 1.77px;
+    line-height: normal;
+}
+
+.macbook-pro .span {
+    color: #1e1e1e;
+}
+
+.macbook-pro .text-wrapper-3 {
+    color: #000000;
+}
+
+.macbook-pro .text-wrapper-4 {
+    color: #191111;
+}
+
+.macbook-pro .overlap-group {
+    position: absolute;
+    width: 77px;
+    height: 80px;
+    top: 33px;
+    left: 42px;
+    background-image: url(./img/f4-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.macbook-pro .f {
+    position: absolute;
+    width: 77px;
+    height: 80px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}

@@ -1,0 +1,209 @@
+.desktop {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.desktop .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1480px;
+    height: 1052.44px;
+}
+
+.desktop .overlap {
+    position: relative;
+    width: 1531px;
+    height: 1052px;
+    left: -25px;
+}
+
+.desktop .b {
+    position: absolute;
+    width: 1480px;
+    height: 1047px;
+    top: 0;
+    left: 25px;
+    object-fit: cover;
+}
+
+.desktop .frame {
+    position: absolute;
+    width: 1531px;
+    height: 926px;
+    top: 127px;
+    left: 0;
+    border-radius: 21.26px;
+    overflow: hidden;
+    box-shadow: inset 0px 4.25px 4.25px #00000040;
+    background: linear-gradient(180deg, rgba(253.09, 247.18, 247.18, 0.76) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .text-wrapper {
+    position: absolute;
+    width: 423px;
+    top: 335px;
+    left: 171px;
+    font-family: "Inika-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 21.3px;
+    letter-spacing: 6.38px;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.desktop .overlap-group {
+    position: absolute;
+    width: 530px;
+    height: 152px;
+    top: 104px;
+    left: 114px;
+}
+
+.desktop .div {
+    position: absolute;
+    width: 400px;
+    top: 0;
+    left: 0;
+    font-family: "Irish Grover-Regular", Helvetica;
+    font-weight: 400;
+    color: #5156cd;
+    font-size: 51px;
+    letter-spacing: 14.29px;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-2 {
+    position: absolute;
+    width: 262px;
+    top: 72px;
+    left: 269px;
+    font-family: "Jim Nightshade-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 38.3px;
+    letter-spacing: 10.72px;
+    line-height: normal;
+}
+
+.desktop .ALL-YOUR {
+    position: absolute;
+    width: 369px;
+    top: 402px;
+    left: 114px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #0e0909;
+    font-size: 34px;
+    letter-spacing: 8.5px;
+    line-height: normal;
+}
+
+.desktop .WHOEVER-SAID-THAT {
+    position: absolute;
+    width: 619px;
+    top: 575px;
+    left: 89px;
+    font-family: "Jacques Francois Shadow-Regular", Helvetica;
+    font-weight: 400;
+    color: #220c0c;
+    font-size: 27.6px;
+    letter-spacing: 2.76px;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+    position: absolute;
+    width: 526px;
+    top: 488px;
+    left: 89px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #191111;
+    font-size: 34px;
+    letter-spacing: 10.21px;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+    position: absolute;
+    top: 56px;
+    left: 1006px;
+    font-family: "Inika-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20.6px;
+    letter-spacing: 2.06px;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+    position: absolute;
+    top: 56px;
+    left: 1124px;
+    font-family: "Inika-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20.6px;
+    letter-spacing: 2.06px;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+    position: absolute;
+    top: 56px;
+    left: 1259px;
+    font-family: "Inika-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20.6px;
+    letter-spacing: 2.06px;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-7 {
+    position: absolute;
+    top: 56px;
+    left: 1344px;
+    font-family: "Inika-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20.6px;
+    letter-spacing: 2.06px;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+    position: absolute;
+    top: 56px;
+    left: 402px;
+    font-family: "Inika-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20.6px;
+    letter-spacing: 2.06px;
+    line-height: normal;
+}
+
+.desktop .text-wrapper-9 {
+    position: absolute;
+    top: 56px;
+    left: 251px;
+    font-family: "Inika-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20.6px;
+    letter-spacing: 2.06px;
+    line-height: normal;
+}
+
+.desktop .img {
+    position: absolute;
+    width: 154px;
+    height: 121px;
+    top: 0;
+    left: 43px;
+}
